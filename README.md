@@ -4,30 +4,23 @@
 
 ### Profile:
 
-I am a Java junior developer. During my 100% hands-on training to write code; I solved more than 1000 algorithmic problems of varying complexity, and also completed many real projects. Some of them came with prompts, while others were completely self-paced with strict deadlines. All this required enormous effort and work from me to achieve the final result. The final project was especially interesting and useful, which was as close as possible to real work tasks: an existing unfinished project with specific tasks assigned.
+Software Engineer with over 2 years of experience, including of hands-on development of high-load, scalable, and fault-tolerant systems. I specialize in designing and implementing microservice architectures, stream processing, DevOps practices, and automating CI/CD processes to enhance the reliability and speed of software delivery.
 
-### Projects:
+I have deep expertise in utilizing Apache Kafka and Kafka Streams to build high-performance messaging systems and streaming analytics solutions. I have developed microservice-based applications using Spring Boot, including complex authentication and authorization systems with Keycloak and OAuth 2.0. My experience spans designing new systems and modernizing existing platforms, including data migration, performance optimization, and monitoring setup using Prometheus and Grafana.
 
-- [quest](https://github.com/Kapyrin/quest): A small project without using Spring, based on servlets.
-- [project-hibernate-1](https://github.com/Kapyrin/project-hibernate-1): An application using Hibernate and a MySQL database, also without Spring.
-- [Spring_1](https://github.com/Kapyrin/Spring_1): A full-fledged Spring web application (without Spring Boot) using a database, Tomcat server, and Docker. Includes Junit, Mockito, and Rest API.
-- [HibernateFinalProject](https://github.com/Kapyrin/HibernateFinalProject/): Maven Project using Hibernate, MySQL, and Redis.
-- [project-final](https://github.com/Kapyrin/project-final): A large project with defined tasks, tests, various configurations, and use of Spring Boot, PostgreSQL, H2, Spring Security, Docker Compose, and much more.
+I actively apply Agile and Scrum development methodologies, participating in planning and improving team workflows, ensuring the successful achievement of project goals on time.
 
-### Skills:
+Core Skills:
+Programming Languages: Java
+Backend: Spring (Boot, Data, MVC, Security, AOP, Test), Spring Cloud (Eureka, Config), JPA, Hibernate, REST, Flyway, Keycloak, Lombok, Camunda, OAuth 2.0, JUnit, Mockito, Swagger, Maven, Postman
+Databases: PostgreSQL, Redis, MongoDB
+Message Brokers: Apache Kafka, Kafka Streams
+Monitoring: Prometheus, Grafana
+DevOps: Docker, Docker-Compose, Kubernetes, GitHub Actions, Bitbucket Pipelines
+Version Control Systems: Git, GitHub, BitBucket
+Project Management Tools: Jira, Confluence
+Operating Systems: Linux
 
-- Java
-- Jakarta EE Spring (Boot, Data, Security)
-- Hibernate
-- Java sevlets
-- Web Flux, Concurrent
-- Jsp, Jstl
-- Postgres DB, MySQL, Redis, H2
-- Maven
-- Junit
-- Mockito
-- Rest API
-- Apache Kafka
 
 ### Languages:
 
